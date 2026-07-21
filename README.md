@@ -29,9 +29,14 @@ This project explores the primary drivers of healthcare insurance charges using 
 Tools & Technologies Used
 * **SQL (MySQL):** Data exploration, duplicate identification & removal, metric aggregations.
 * **Microsoft Excel:** Data transformation, conditional logic (`IF` groupings), Pivot Tables, and Pivot Charts.
-* **Power BI Desktop:** Dynamic dashboard design, DAX measures, data visualization.
+* **Power BI Desktop:** Dynamic dashboard design, DAX measures, data visualization
 
-#Dashboard Previews
-![Power BI Dashboard](images/powerbi_dashboard.png)
-![Excel Analysis Sheet](images/excel_pivot_tables.png)
-![Excel Analysis Sheet](images/excel_pivot_tables.png)
+* ### 📸 Dashboard Previews
+
+#### Power BI Dashboard
+![Power BI Dashboard](powerbi_dashboard.png)
+
+#### Excel Pivot Tables & Charts
+![Excel Analysis Sheet](excel_pivot_tables.png)
+
+
